@@ -1,6 +1,8 @@
 CryptoEscudo Miner Tools
 ======================
 
+Now with CI-Travis!
+
 English:
 ========
 
