@@ -1,7 +1,8 @@
 CryptoEscudo Miner Tools
 ======================
 
-Now with CI-Travis!
+![alt tag](https://travis-ci.org/killercode/CryptoEscudoMinerTools.svg?branch=master)
+
 
 English:
 ========
